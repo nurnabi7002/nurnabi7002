@@ -1,30 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nur Nabi</h1>
-<h3 align="center">A passionate Junior frontend developer from Bangladesh. Iam working with HTML, CSS, JS, TAILWIND CSS. Focusing on my Full Stack Web Development Journey.</h3>
+### Hi there 👋, my name is Nur Nabi Khan
+#### Junior Frontend Web Developer
+![Junior Frontend Web Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/505579627_122160774530472817_8066076670832620954_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGq-3_JjkY_igbzIMvkqTHu9k8Zb1ZEtoz2TxlvVkS2jINiPVOmgMXqkfsOe7xbtZj8NO9mj8TVkPDgmL0fZRrI&_nc_ohc=R-g7Y3oQJBIQ7kNvwF2uS_n&_nc_oc=AdkJChP62qxyWHTuXjtguUGtRa6SwmBWYGYuvrejgFtdnMzZnaxAofEDjJBaRhvpHdc&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=ZfUaJKcyYy4Xw8SBZdEY5g&oh=00_AfP1h34XWqg70VCWetr78lbYZwtKv8eSkdn9x6dYgQrF4g&oe=684CA548)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnabi7002&label=Profile%20views&color=0e75b6&style=flat" alt="nurnabi7002" /> </p>
+A passionate Junior frontend developer from Bangladesh. Iam working with HTML, CSS, JS, TAILWIND CSS. Focusing on my Full Stack Web Development Journey.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nurnabi7002" alt="nurnabi7002" /></a> </p>
+Skills: HTML / CSS / Tailwind CSS / JS / Linux / Bash / Fetch API
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌱 I’m currently learning Taillwind CSS / React.js 
+- 📫 How to reach me: nurnabi7002@gmail.com 
+- ⚡ Fun fact: Iam looks a little goofy but Iam actually super mature person 
 
-- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Building Landing Page**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nurnabi7002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nurnabikhan7002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nrvortex.netlify.app/)  
 
-- 📫 How to reach me **nurnabi7002@gmail.com**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- ⚡ Fun fact **Iam looking a goofy but Iam not**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/nurnabikhan7002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nurnabikhan7002" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurnabi7002&show_icons=true&locale=en&layout=compact" alt="nurnabi7002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurnabi7002&show_icons=true&locale=en" alt="nurnabi7002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurnabi7002&" alt="nurnabi7002" /></p>
