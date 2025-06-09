@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nur Nabi Khan
+### Hi there 👋, My Name Ss Nur Nabi Khan
 #### Junior Frontend Web Developer
 ![Junior Frontend Web Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/505579627_122160774530472817_8066076670832620954_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGq-3_JjkY_igbzIMvkqTHu9k8Zb1ZEtoz2TxlvVkS2jINiPVOmgMXqkfsOe7xbtZj8NO9mj8TVkPDgmL0fZRrI&_nc_ohc=R-g7Y3oQJBIQ7kNvwF2uS_n&_nc_oc=AdkJChP62qxyWHTuXjtguUGtRa6SwmBWYGYuvrejgFtdnMzZnaxAofEDjJBaRhvpHdc&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=ZfUaJKcyYy4Xw8SBZdEY5g&oh=00_AfP1h34XWqg70VCWetr78lbYZwtKv8eSkdn9x6dYgQrF4g&oe=684CA548)
 
