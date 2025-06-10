@@ -4,7 +4,7 @@
 
 A passionate Junior frontend developer from Bangladesh. Iam working with HTML, CSS, JS, TAILWIND CSS. Focusing on my Full Stack Web Development Journey.
 
-Skills: HTML / CSS / Tailwind CSS / JS / Linux / Bash / Fetch API
+Skills: HTML / CSS / Tailwind CSS / JS / Linux / Bash / Third Party Fetch API Integration/ Figma & PSD For Developers / Python
 
 - 🌱 I’m currently learning Taillwind CSS / React.js 
 - 📫 How to reach me: nurnabi7002@gmail.com 
