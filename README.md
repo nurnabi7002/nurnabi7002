@@ -1,6 +1,9 @@
 <h1 align="center">Hey there, I'm Nurnabi Khan Rabib 👋</h1>
 <h3 align="center">A passionate self-taught Frontend Web Developer from Bangladesh</h3>
-![Junior Frontend Web Developer](https://ik.imagekit.io/y74mrm0nk/cover.jpg)
+<p align="center">
+  <img src="https://ik.imagekit.io/y74mrm0nk/cover.jpg" alt="Junior Frontend Web Developer" width="600" />
+</p>
+
 
 
 ---
