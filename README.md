@@ -42,10 +42,16 @@
 
 <p align="left">
   <a href="mailto:nurnabi7002@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red" alt="Gmail">
   </a>
   <a href="https://github.com/nurnabi7002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black" alt="GitHub">
+  </a>
+  <a href="https://www.facebook.com/nurnabikhan7002" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&labelColor=1877F2" alt="Facebook">
+  </a>
+  <a href="https://nrvortex.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&labelColor=000000" alt="Portfolio">
   </a>
 </p>
 
