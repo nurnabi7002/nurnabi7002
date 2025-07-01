@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, I'm Nurnabi Khan Rabib 👋</h1>
 <h3 align="center">A passionate self-taught Frontend Web Developer from Bangladesh</h3>
+![Junior Frontend Web Developer](https://ik.imagekit.io/y74mrm0nk/cover.jpg)
 
 ---
 
@@ -36,9 +37,6 @@
 ### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nurnabi7002" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-  </a>
   <a href="mailto:nurnabi7002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red">
   </a>
