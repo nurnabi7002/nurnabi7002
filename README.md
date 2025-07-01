@@ -1,19 +1,50 @@
-### Hi there 👋, My Name Nur Nabi Khan
-#### Junior Frontend Web Developer
-![Junior Frontend Web Developer](https://ik.imagekit.io/y74mrm0nk/cover.jpg)
+<h1 align="center">Hey there, I'm Nurnabi Khan Rabib 👋</h1>
+<h3 align="center">A passionate self-taught Frontend Web Developer from Bangladesh</h3>
 
+---
 
-A passionate Junior frontend developer from Bangladesh. Iam working with HTML, CSS, JS, TAILWIND CSS. Focusing on my Full Stack Web Development Journey.
+### 🧠 About Me
 
-Skills: HTML / CSS / Tailwind CSS / JS / Linux / Bash / Third Party Fetch API Integration/ Figma & PSD For Developers / Python
+- 🔭 I’m currently working on **Frontend Projects with Tailwind CSS, JavaScript, and React**
+- 🌱 I’m currently learning **React.js and Next.js** to become a Full Stack Developer
+- 👨‍💻 Most of my projects are available at [My GitHub](https://github.com/nurnabi7002)
+- 💬 Ask me about **JavaScript, Tailwind CSS, React, Python (Basics), and Linux**
+- 📫 Reach me: **nurnabi7002@gmail.com**
+- ⚡ Fun fact: *I overthink everything — even this line 😅*
 
-- 🌱 I’m currently learning Taillwind CSS / React.js 
-- 📫 How to reach me: nurnabi7002@gmail.com 
-- ⚡ Fun fact: Iam looks a little goofy but Iam actually super mature person 
+---
 
+### 🛠️ Technologies & Tools I Use
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nurnabi7002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nurnabikhan7002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nrvortex.netlify.app/)  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,linux,vscode,figma,github" />
+</p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurnabi7002&show_icons=true&theme=tokyonight" alt="nurnabi7002" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurnabi7002&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nurnabi7002" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+  <a href="mailto:nurnabi7002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red">
+  </a>
+  <a href="https://github.com/nurnabi7002" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black">
+  </a>
+</p>
 
 
