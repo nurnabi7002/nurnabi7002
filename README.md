@@ -55,6 +55,10 @@
   <a href="https://nrvortex.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&labelColor=000000" alt="Portfolio">
   </a>
+     <a href="https://x.com/nurnabi7002" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white&labelColor=000000" alt="X (Twitter)">
+  </a>
+
 </p>
 
 
