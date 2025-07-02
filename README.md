@@ -33,7 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nurnabi7002&show_icons=true&theme=tokyonight" alt="nurnabi7002" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurnabi7002&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=nurnabi7002&show_icons=true&theme=tokyonight" />
+
 </p>
 
 ---
