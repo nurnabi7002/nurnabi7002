@@ -33,7 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nurnabi7002&show_icons=true&theme=tokyonight" alt="nurnabi7002" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nurnabi7002&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurnabi7002&layout=compact&theme=tokyonight" />
+
 
 </p>
 
