@@ -22,7 +22,7 @@
 ### 🛠️ Technologies & Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,python,linux,vscode,figma,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,typescript,python,linux,vscode,figma,github" />
 </p>
 
 ---
