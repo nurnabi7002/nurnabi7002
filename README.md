@@ -10,10 +10,9 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Frontend Projects with Tailwind CSS, JavaScript, and React**
-- 🌱 I’m currently learning **React.js and Next.js** to become a Full Stack Developer
+- 🔭 I’m currently working on **Frontend Projects with Tailwind CSS, JavaScript, Typescript and React**
+- 🌱 I’m currently learning **Full Stack Web Development and Ethical Hacking**
 - 👨‍💻 Most of my projects are available at [My GitHub](https://github.com/nurnabi7002)
-- 💬 Ask me about **JavaScript, Tailwind CSS, React, Python (Basics), and Linux**
 - 📫 Reach me: **nurnabi7002@gmail.com**
 - ⚡ Fun fact: *I overthink everything — even this line 😅*
 
