@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Nur Nabi Khan Rabib 👋</h1>
+<h1 align="center">Hey there, I'm Nur Nabi Khan</h1>
 <h3 align="center">A passionate self-taught Frontend Web Developer from Bangladesh</h3>
 <p align="center">
   <img src="https://github.com/nurnabi7002/nurnabi7002/blob/main/readme-banner.jpg" alt="Junior Frontend Web Developer" width="600" />
